@@ -1,0 +1,10 @@
+{application,er_coap_client,
+             [{description,"Generic Erlang CoAP Client/Server"},
+              {vsn,"git"},
+              {modules,[]},
+              {registered,[]},
+              {applications, [kernel, stdlib]},
+              {env,[]},
+              {licenses, ["Apache-2.0"]},
+              {links, ["Github", "https://github.com/grutabow/er_coap_client"]}
+             ]}.
